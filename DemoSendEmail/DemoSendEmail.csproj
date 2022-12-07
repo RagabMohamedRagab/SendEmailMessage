@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\Templates\Templates\**" />
+    <Content Remove="wwwroot\Templates\Templates\**" />
+    <EmbeddedResource Remove="wwwroot\Templates\Templates\**" />
+    <None Remove="wwwroot\Templates\Templates\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MailKit" Version="3.4.3" />
     <PackageReference Include="MimeKit" Version="3.4.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />

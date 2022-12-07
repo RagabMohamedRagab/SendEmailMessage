@@ -40,3 +40,45 @@ C:\Users\pc\Desktop\SendEmail\DemoSendEmail\bin\Debug\net5.0\System.Security.Cry
 C:\Users\pc\Desktop\SendEmail\DemoSendEmail\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
 C:\Users\pc\Desktop\SendEmail\DemoSendEmail\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
 C:\Users\pc\Desktop\SendEmail\DemoSendEmail\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\appsettings.json
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\DemoSendEmail.exe
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\DemoSendEmail.deps.json
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\DemoSendEmail.runtimeconfig.json
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\DemoSendEmail.runtimeconfig.dev.json
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\DemoSendEmail.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\DemoSendEmail.pdb
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\MailKit.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\MimeKit.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.AssemblyInfo.cs
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\scopedcss\bundle\DemoSendEmail.styles.css
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\staticwebassets\DemoSendEmail.StaticWebAssets.Manifest.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\staticwebassets\DemoSendEmail.StaticWebAssets.Pack.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\staticwebassets\msbuild.DemoSendEmail.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\staticwebassets\msbuild.build.DemoSendEmail.props
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DemoSendEmail.props
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DemoSendEmail.props
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.csproj.CopyComplete
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\refint\DemoSendEmail.dll
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.pdb
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\DemoSendEmail.genruntimeconfig.cache
+C:\Users\pc\Desktop\New folder (4)\DemoSendEmail\obj\Debug\net5.0\ref\DemoSendEmail.dll

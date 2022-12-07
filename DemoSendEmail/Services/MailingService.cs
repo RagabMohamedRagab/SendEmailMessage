@@ -7,14 +7,18 @@ using MimeKit;
 using System.IO;
 using MailKit.Net.Smtp;
 using MailKit.Security;
+using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore.Hosting;
 
 namespace DemoSendEmail.Services {
     public class MailingService : IMailingService {
         private readonly MailSettings _mailSettings;
+        private readonly IWebHostEnvironment _host;
 
-        public MailingService(IOptions<MailSettings> mailSettings)
+        public MailingService(IOptions<MailSettings> mailSettings, IWebHostEnvironment host)
         {
             _mailSettings = mailSettings.Value;
+            _host = host;
         }
 
         public async Task SendEmailAsync(string mailto, string subject, string body, IList<IFormFile> attachments = null)
@@ -41,7 +45,7 @@ namespace DemoSendEmail.Services {
 
                 }
             }
-            builder.TextBody= body;
+            builder.HtmlBody = body;
             email.Body=builder.ToMessageBody();
             email.From.Add(new MailboxAddress(_mailSettings.DisplayName,_mailSettings.Email));
             using var smtp = new SmtpClient();
