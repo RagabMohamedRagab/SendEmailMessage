@@ -129,5 +129,5 @@ public class MailController : ControllerBase
     }
 }
 ```
-
-<a href="https://code-maze.com/aspnetcore-send-email/">More details</a>
+PlayList : <a href="bddc1d57eb34aedcf264cecac667cb3e">Here ...</a> <br/>
+Tutorial : <a href="https://code-maze.com/aspnetcore-send-email/">Here ...</a>
